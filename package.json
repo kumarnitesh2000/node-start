@@ -1,0 +1,23 @@
+{
+  "name": "node-start",
+  "version": "1.0.0",
+  "description": "simple crash course for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarnitesh2000/node-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarnitesh2000/node-start/issues"
+  },
+  "homepage": "https://github.com/kumarnitesh2000/node-start#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
